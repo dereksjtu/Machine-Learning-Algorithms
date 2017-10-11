@@ -1,2 +1,2 @@
-# Machine-Learning-Algorithms
+# Machine Learning Basic Algorithms
 Realize basic machine learning algorithms 
